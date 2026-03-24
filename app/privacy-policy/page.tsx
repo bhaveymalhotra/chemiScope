@@ -1,0 +1,1 @@
+export default function PrivacyPage() { return <main className="container-x py-16"><h1 className="h2">Privacy Policy</h1><p className="mt-4 text-steel">We use submitted contact data only for responding to business inquiries and service discussions.</p></main>; }
