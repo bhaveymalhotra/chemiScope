@@ -1,0 +1,1 @@
+export default function TermsPage() { return <main className="container-x py-16"><h1 className="h2">Terms</h1><p className="mt-4 text-steel">Information on this website is indicative for B2B evaluation. Final technical and commercial terms are shared in official quotation and documentation.</p></main>; }
